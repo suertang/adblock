@@ -1,4 +1,4 @@
-![Adblock Plus 2.0]
+[Adblock Plus 2.0]
 
-xasiat.com##+js(abort-current-script,,/init|R|adConfig/)
+xasiat.com##+js(abort-current-inline-script,,/init|R|adConfig|replace|javascript|source/)
 ||xasiat.com^$popup,thrid-party
