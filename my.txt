@@ -1,0 +1,2 @@
+xasiat.com#%#//scriptlet('abort-current-inline-script','/init|R|adConfig/')
+||xasiat.com$popup,thrid-party
